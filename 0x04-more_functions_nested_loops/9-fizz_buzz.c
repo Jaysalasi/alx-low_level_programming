@@ -1,13 +1,13 @@
 #include <stdio.h>
 
 /**
- * fizz_buzz - counts 1-100 and prints fizzbuzz
+ * main - counts 1-100 and prints fizzbuzz
  * on multiples of 3 & 5, and fizz on each 3 count and
  * buzz on 5 count
  * Return: void
  */
 
-int fizz_buzz(void)
+int main(void)
 {
 	int i = 1;
 
