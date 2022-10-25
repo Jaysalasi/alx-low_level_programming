@@ -9,7 +9,7 @@
  * Return: always 0
  */
 
-int strlen(char *s)
+int _strlen(char *s)
 {
 	int i;
 
