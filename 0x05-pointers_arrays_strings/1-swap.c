@@ -2,8 +2,9 @@
 #include <stdio.h>
 
 /**
- * swap - swap the values of 2 ints
- * @a @b: int values to be swaped
+ * swap_int - swap the values of 2 ints
+ * @a: int initial
+ * @b: int values to be swaped
  * Return: always 0
  */
 
