@@ -18,7 +18,7 @@ char *_strncat(char *dest, char *src, int n)
 		dest[des_len + i] = src[i];
 
 	/* should end with a end of string char */
-	dest[des_len + 1] = '\0';
+	dest[des_len + i] = '\0';
 
 	return (dest);
 }
